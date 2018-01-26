@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import Principal_Curves as pc
 #import princurve2 as pc2
 import time
+"testing file for PCS "
 
 def curve(n):
     "define random points around a sin curve"
