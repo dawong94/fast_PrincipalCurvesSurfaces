@@ -2,6 +2,7 @@
 
 # Author: James McQueen <jmcq@u.washington.edu>
 #         Xiao Wang <wang19@u.washington.edu>
+
 # LICENSE: Simplified BSD https://github.com/mmp2/megaman/blob/master/LICEN
 import numpy as np
 import scipy as sci
